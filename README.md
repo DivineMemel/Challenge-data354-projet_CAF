@@ -14,8 +14,8 @@ Ce projet est un scraper de données LinkedIn qui automatise le processus de con
 1. **Cloner le dépôt :**
 
     ```bash
-    git clone git@github.com:DivineMemel/Challenge_Data354.git
-    cd Challenge_Data354
+    git clone git@github.com:DivineMemel/Challenge-data354-projet_CAF.git
+    cd Challenge-data354-projet_CAF
     ```
 
 2. **Installer les paquets Python requis**
@@ -32,10 +32,10 @@ Ce projet est un scraper de données LinkedIn qui automatise le processus de con
 
 ## Utilisation
 
-1. **Exécuter le script :**
+1. **Exécuter le script directement dans l'environnement jupyter :**
 
     ```bash
-    python scraper.py
+    scrapping-data.ipynb
     ```
 
 2. **Connexion manuelle :**
