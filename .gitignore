@@ -1,4 +1,4 @@
 #ignorer tous les fichiers .env
 *.env
-*.cookies.json
-*.linkedin_cookies.json
+*cookies.json
+*linkedin_cookies.json
