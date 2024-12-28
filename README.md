@@ -35,7 +35,7 @@ Ce projet est un scraper de données LinkedIn qui automatise le processus de con
 1. **Exécuter le script directement dans l'environnement jupyter :**
 
     ```bash
-    scrapping-data.ipynb
+    python3 scrapping-data.py
     ```
 
 2. **Connexion manuelle :**
