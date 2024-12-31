@@ -2,3 +2,5 @@
 *.env
 *cookies.json
 *linkedin_cookies.json
+*venv
+*venv/
